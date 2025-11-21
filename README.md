@@ -1,4 +1,4 @@
-# Activity-2-Implementing-Sorting-Algorithms
+# sorting_lab.cpp.
 
 #include <iostream>
 using namespace std;
